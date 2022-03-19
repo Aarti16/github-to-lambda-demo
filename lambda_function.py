@@ -8,4 +8,4 @@ def lambda_handler(event,context):
 
     df = pd.DataFrame(data=d)
     print(df)
-    print('Done X1')
+    print('Done X1.1')
